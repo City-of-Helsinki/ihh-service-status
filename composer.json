@@ -1,0 +1,9 @@
+{
+	"name": "druid/ihh-reservation-status",
+	"type": "wordpress-plugin",
+	"version": "master",
+	"require": {
+	  "wecodemore/wpstarter": "~2.0",
+	  "johnpbloch/wordpress-core": ">5.0"
+	}
+}
